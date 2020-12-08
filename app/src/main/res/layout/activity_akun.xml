@@ -155,6 +155,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:src="@drawable/g"/>
+
                 <TextView
                     android:layout_marginBottom="13dp"
                     android:layout_marginTop="13dp"
