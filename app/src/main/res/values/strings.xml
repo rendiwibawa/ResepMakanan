@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"><b>Resep</b></string>
+    <string name="share">share</string>
+    <string name="detail">detail</string>
+    <string name="nama_makanan">nama_makanan</string>
+    <string name="detail_resep">detail_resep</string>
+
+    <string name="nama1">Nama : Rendi Prayata Wibawa \n\n
+    Alamat : Kab.Tuban, Jawatimur \n\n Sekolah : SMK TELKOM-MALANG \n\n Email : rendiwibawa25@gmail.com
+    </string>
+
+    <string name="nama3">Nama : Genggam Samudra \n\n
+    Alamat : Kab.Kediri, Jawatimur \n\n Sekolah : SMK TELKOM-MALANG \n\n Email : genggamssamudra@gmail.com
+    </string>
+
+    <string name="nama2">Nama : In’amy Fadlyyah Takariyanti \n\n
+    Alamat : Kab.Tuban, Jawatimur \n\n Sekolah : SMK TELKOM-MALANG \n\n Email : takariyantiamy@gmail.com
+    </string>
+
+    <string name="alamat_kab_tuban_jawatimur">Alamat : Kab.Tuban, Jawatimur</string>
+    <string name="sekolah_smk_telkom_malang">Sekolah : SMK TELKOM-MALANG</string>
+    <string name="emal_rendiwibawa25_gmail_com">Email :rendiwibawa25@gmail.com</string>
+
+    <string name="title_activity_splasg_screen">SplasgScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="resep">Resep</string>
+    <string name="masakan">Masakan</string>
+</resources>
