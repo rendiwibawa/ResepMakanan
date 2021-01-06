@@ -1,7 +1,7 @@
 # Resep Masakan
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://github.com/Resep-Makanan/ResepMasakan/blob/master/ezgif.com-gif-maker.gif">
+	<img align="right" src="https://github.com/rendiwibawa/ResepMakanan/blob/master/ezgif.com-gif-maker%20(1).gif">
 </a>
 
 ### 🌱 what this app?
