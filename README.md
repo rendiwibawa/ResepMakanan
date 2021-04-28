@@ -7,7 +7,7 @@
 ### 🌱 what this app?
 - ✔️Aplikasi Resep masakan ini akan membentu user dalam menemukan berbagai resep 
 masakan yang ada. Aplikasi ini akan memeberikan banyak list dari berbagai resep 
-masakan di sertai dengan gambar dan juga cara pembuatnya .
+masakan di sertai dengan gambar dan juga cara pembuatnya.
 
 - ✔️Aplikasi ini mampu menampung banyak resep dan dapat menampilkanya.
 
