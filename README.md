@@ -12,7 +12,7 @@ masakan di sertai dengan gambar dan juga cara pembuatnya.
 - ✔️Aplikasi ini mampu menampung banyak resep dan dapat menampilkanya.
 
 - ✔️Aplikasi ini di desain minimalis dan simpel agar user mudah dan nyaman dalam 
-penggunaanya
+penggunaanya.
 
 
 ### 💻 component  :
